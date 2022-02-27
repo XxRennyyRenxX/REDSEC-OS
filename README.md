@@ -1,0 +1,2 @@
+# REDSEC-OS
+REDSEC-OS is a cyber-security/penetration testing enviroment built for lightweight use for ethical hackers on the go and on a desktop based enviroment. REDSEC OS is based of the Linxu Kernel and utilises this throughout, REDSEC is not open source and cannot be modified by the source, however we have loads of customizations. REDSEC is still being developed and we hope to release it by December 2022.
